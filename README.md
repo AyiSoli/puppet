@@ -1,1 +1,1 @@
-Simple trader system 
+Auto Simple market trader system 
